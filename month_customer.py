@@ -14,6 +14,7 @@ db_config={
 }
 
 # load data
+# njkjhj
 df=pd.read_excel(excel_file_path);
 
 # connect to pgsql
